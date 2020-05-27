@@ -12,3 +12,5 @@ A simple application written in vanilla JS, to improve my oop skills.
 - Includes google map
 
 ## Live version 
+
+https://maciejklis.github.io/CheckYourPosition/
